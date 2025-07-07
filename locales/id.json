@@ -1,0 +1,4 @@
+{
+  "start_message": "Halo! Saya adalah bot musik yang siap memutar lagu di obrolan suara. Gunakan /play [nama lagu] untuk memulai.",
+  "play_usage": "Mohon berikan nama lagu atau link YouTube setelah perintah. Contoh: /play never gonna give you up"
+}

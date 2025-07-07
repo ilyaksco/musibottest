@@ -1,0 +1,4 @@
+{
+  "start_message": "Hello! I am a music bot ready to play songs in your voice chat. Use /play [song name] to start.",
+  "play_usage": "Please provide a song name or YouTube link after the command. Example: /play never gonna give you up"
+}
